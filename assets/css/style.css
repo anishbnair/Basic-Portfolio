@@ -31,20 +31,6 @@ html, body {
     padding: 30px;
 }
 
-/*
-
-hr {
-    display: block;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    margin-left: 10px;
-    margin-right: 10px;
-    border-style: inset;
-    border-width: 2px;
-}
-
-*/
-
 .navbar {
   margin-top: 30px;
   margin-right: 238px;
@@ -149,6 +135,10 @@ hr {
     left: 0;
     bottom: 0;
     border-top-width: 2px #4aaaa5;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .contact {
@@ -240,7 +230,7 @@ h1 {
     word-break: break-all;
 }
 
-/* Portfolio */
+/* Portfolio Gallery*/
 
 
 
